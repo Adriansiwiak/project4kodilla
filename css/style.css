@@ -6,7 +6,7 @@
 
 .nav-item {
   padding: 20px;
-  color: black;
+  color: white;
 }
 
 .nav-item:hover {
@@ -24,7 +24,7 @@
   text-align: center;
 }
 
-.back {
+.background {
   background: url(/images/Splash-min.jpg);
   background-position: center;
   background-size: cover;
@@ -33,5 +33,17 @@
 
 .main-text1, .main-text2 {
   color: white;
+}
+
+/* Services*/
+.title {
+  position: relative;
+  padding: 70px 0 70px;
+  text-align: center;
+}
+
+.serv {
+  position: relative;
+  text-align: center;
 }
 /*# sourceMappingURL=style.css.map */

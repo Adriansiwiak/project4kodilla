@@ -8,7 +8,7 @@ $btn-color:#fed136;
 }
 .nav-item{
   padding: 20px;
-  color: black;
+  color: white;
 }
 .nav-item:hover{
   color: grey;
@@ -23,7 +23,7 @@ $btn-color:#fed136;
   padding: 200px 0 200px;
   text-align: center;
 }
-.back{
+.background{
 background: url(/images/Splash-min.jpg);
 background-position: center;
 background-size: cover; 
@@ -31,4 +31,14 @@ position: relative;
 }
 .main-text1, .main-text2{
   color: white;
+}
+/* Services*/
+.title{
+  position: relative;
+  padding: 70px 0 70px;
+  text-align: center;
+}
+.serv{
+  position: relative;
+  text-align: center;
 }
