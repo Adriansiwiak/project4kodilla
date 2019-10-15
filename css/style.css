@@ -1,0 +1,37 @@
+/*Variable*/
+/*splash*/
+.header {
+  background-image: src;
+}
+
+.nav-item {
+  padding: 20px;
+  color: black;
+}
+
+.nav-item:hover {
+  color: grey;
+}
+
+.brand {
+  padding-top: 30px;
+}
+
+/*main*/
+.main-inner {
+  position: relative;
+  padding: 200px 0 200px;
+  text-align: center;
+}
+
+.back {
+  background: url(/images/Splash-min.jpg);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+.main-text1, .main-text2 {
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
