@@ -20,6 +20,9 @@ body{
 .brand{
   padding-top: 30px;
 }
+.btn{
+  color: #fff;
+}
 
 /*main*/
 .main-inner{
@@ -41,11 +44,12 @@ position: relative;
 }
 .main-text2{
   font-size: 80px;
+  font-weight: 900;
 }
 /* Services*/
 .title{
   position: relative;
-  padding: 100px 0 120px;
+  padding: 100px 0 80px;
   text-align: center;
 }
 .serv{
@@ -57,18 +61,33 @@ position: relative;
 .backport{
   background-color: lightgray;
 }
+.title-portfolio{
+  position: relative;
+  padding: 100px 0 50px;
+  text-align: center;
+}
 .card{
   margin: 25px 20px 25px 20px;
 }
 .card-body{
   text-align: center;
 }
+.card-text{
+  color: lightgray;
+}
+.title-port{
+  font-size: 45px;
+  font-weight: 900;
+}
+.title-p{
+  color: grey;
+}
 /*Footer*/
 .footer-ic{
-  padding: 40px 10px;
+  padding: 45px 10px;
 }
 .icons{
   text-align: center;
   font-size: 50px;
-  padding: 20px 0 20px;
+  padding: 20px 0 15px;
 }
