@@ -35,10 +35,22 @@ position: relative;
 /* Services*/
 .title{
   position: relative;
-  padding: 70px 0 70px;
+  padding: 100px 0 120px;
   text-align: center;
 }
 .serv{
   position: relative;
   text-align: center;
+  margin-bottom: 80px;
 }
+/*Protfolio*/
+.backport{
+  background-color: lightgray;
+}
+.card{
+  margin: 25px 20px 25px 20px;
+}
+.card-body{
+  text-align: center;
+}
+/*Footer*/
