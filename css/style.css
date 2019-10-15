@@ -2,11 +2,20 @@
   box-sizing: content-box;
 }
 
-.navigation {
-  padding-top: 20px;
+.selector-for-some-widget {
+  box-sizing: content-box;
 }
-
-.nav-link {
-  color: red;
+.navbar {
+ padding: 50px 0;
+}
+.navbar-brand {
+ font-weight: 600;
+ font-size: 1.5em;
+}
+.navbar-dark .navbar-brand{
+ color: gold;
+}
+.nav-item{
+font-weight: 600;
 }
 /*# sourceMappingURL=style.css.map */
